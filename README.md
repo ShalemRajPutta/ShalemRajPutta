@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ShalemRajPutta
 
 - 👀 I’m interested in Web Development, Data Analytics, IoT Systems, and Cloud Computing.
-- 🌱 I’m currently learning JavaScript, Git, and AWS Cloud Practitioner Essentials.
+- 🌱 I’m currently learning Python, Git, and AWS Cloud Practitioner Essentials.
 - 💞️ I’m looking to collaborate on open-source projects related to automation, data dashboards, and smart systems.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ShalemRajPutta)** or shalemputta@gmail.com
 - 😄 Pronouns: He/Him
